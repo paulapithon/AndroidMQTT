@@ -3,6 +3,6 @@
     <string name="tab_text_1">Broker</string>
     <string name="tab_text_2">Client</string>
 
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="broker_on">Broker enabled.\n\nHost: %1$s</string>
+    <string name="broker_off">Broker disabled.</string>
 </resources>
